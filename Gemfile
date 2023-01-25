@@ -73,8 +73,4 @@ end
 
 gem "devise", "~> 4.8"
 
-
-
-
-
-gem "pg", "~> 1.4"
+gem "sqlite3", "~> 1.6"
